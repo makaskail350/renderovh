@@ -10,7 +10,7 @@ services:
       - key: TELEGRAM_TOKEN
         sync: false
       - key: CHAT_ID
-        value: -4928923400
+        value: -1003396764041
       - key: OVH_LINE_NUMBER
         value: 0033185093039
       - key: RENDER
