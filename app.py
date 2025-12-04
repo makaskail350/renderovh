@@ -30,7 +30,7 @@ app.secret_key = 'webhook-ovh-render-secure-v2'
 # Configuration centralisée - Render.com
 class Config:
     TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
-    CHAT_ID = os.environ.get('CHAT_ID', '-4928923400')
+    CHAT_ID = os.environ.get('CHAT_ID', '-1003396764041')
     OVH_LINE_NUMBER = os.environ.get('OVH_LINE_NUMBER', '0033185093039')
     RENDER = os.environ.get('RENDER', False)
     # NOUVEAU: Formats de fichiers acceptés
